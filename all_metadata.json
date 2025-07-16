@@ -1,5 +1,5 @@
 {
-    "userData": {
+    "sidd": {
         "dataset_name": "Iowa Lake Water Quality",
         "description": "Measurements of nutrient concentrations in Iowa lakes from 2010 to 2020.",
         "version": "1.1.0",
@@ -73,7 +73,7 @@
         "source": "https://doi.org/10.5678/us.river.discharge.2022",
         "schema_version": "1.0"
     },
-    "sidd": {
+    "userData": {
         "dataset_name": "Iowa Lake Water Quality",
         "description": "Measurements of nutrient concentrations in Iowa lakes from 2010 to 2020.",
         "version": "1.1.0",
