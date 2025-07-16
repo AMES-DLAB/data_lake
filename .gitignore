@@ -1,0 +1,17 @@
+# Virtual environment names
+venv/
+
+# LaTeX auxiliary files
+cv.aux
+cv.log
+cv.out
+cv.synctex.gz
+
+# VSCode Settings
+.vscode/
+
+# Mac Files
+.DS_Store
+
+# Pycache Files
+__pycache__/
