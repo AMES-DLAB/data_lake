@@ -7,3 +7,9 @@
 [submodule "datasets/userData"]
 	path = datasets/userData
 	url = https://github.com/DLakesummer/userData
+[submodule "datasets/datasets/Vid1"]
+	path = datasets/datasets/Vid1
+	url = https://github.com/AMES-DLAB/Vid1
+[submodule "datasets/Vid1"]
+	path = datasets/Vid1
+	url = https://github.com/AMES-DLAB/Vid1
