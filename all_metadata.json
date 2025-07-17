@@ -103,5 +103,27 @@
         "license": "CC-BY-4.0",
         "source": "https://doi.org/10.1234/iowa.lake.quality.2020",
         "schema_version": "1.0"
+    },
+    "Vid1": {
+        "dataset_name": "string (required)",
+        "description": "string (required)",
+        "version": "string (e.g., '1.0.0')",
+        "created_on": "YYYY-MM-DD",
+        "updated_on": "YYYY-MM-DD",
+        "contributors": [
+            {
+                "name": "string",
+                "email": "string (optional)",
+                "role": "string (e.g., author, curator, reviewer)"
+            }
+        ],
+        "tags": [
+            "list",
+            "of",
+            "keywords"
+        ],
+        "license": "string (e.g., CC-BY-4.0, MIT, etc.)",
+        "source": "string (URL or citation)",
+        "schema_version": "string (e.g., '1.0')"
     }
 }
