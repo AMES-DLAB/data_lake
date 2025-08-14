@@ -10,9 +10,6 @@
 [submodule "datasets/datasets/Vid1"]
 	path = datasets/datasets/Vid1
 	url = https://github.com/AMES-DLAB/Vid1
-[submodule "datasets/Vid1"]
-	path = datasets/Vid1
-	url = https://github.com/AMES-DLAB/Vid1
 [submodule "datasets/DataDump"]
 	path = datasets/DataDump
 	url = https://github.com/rmrresearch/DataDump
