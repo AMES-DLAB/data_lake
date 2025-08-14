@@ -1,12 +1,3 @@
-[submodule "datasets/sidd"]
-	path = datasets/sidd
-	url = https://github.com/DLakesummer/sidd
-[submodule "datasets/test_ds"]
-	path = datasets/test_ds
-	url = https://github.com/DLakesummer/test_ds
-[submodule "datasets/userData"]
-	path = datasets/userData
-	url = https://github.com/DLakesummer/userData
 [submodule "datasets/datasets/Vid1"]
 	path = datasets/datasets/Vid1
 	url = https://github.com/AMES-DLAB/Vid1
